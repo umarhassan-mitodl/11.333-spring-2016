@@ -1,0 +1,83 @@
+{
+  "term": "Spring",
+  "year": "2016",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Business",
+      "Globalization"
+    ],
+    [
+      "Business",
+      "Real Estate"
+    ],
+    [
+      "Energy",
+      "Buildings"
+    ],
+    [
+      "Energy",
+      "Technology"
+    ],
+    [
+      "Fine Arts",
+      "Architecture"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Engineering"
+    ],
+    [
+      "Fine Arts",
+      "Architecture",
+      "Environmental Design"
+    ],
+    [
+      "Social Science",
+      "Urban Studies"
+    ],
+    [
+      "Society",
+      "The Developing World"
+    ]
+  ],
+  "legacy_uid": "8a02b698-42ae-0bb8-5005-80a5355f6119",
+  "instructors": {
+    "content": [
+      "fb7c1f09-5fbc-cf01-a1f6-0c666e433d97"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "da49c7b4-db40-00ac-905b-6e4969a5a518",
+    "website": "11-333-urban-design-seminar-spring-2016"
+  },
+  "course_title": "Urban Design Seminar",
+  "course_description": "This seminar focuses on understanding the role of high-quality design as a tool to address urban social problems. This course will also examine marginalized spaces and how urban design can intervene as a tool to creatively challenge traditional urban design practices.\n",
+  "department_numbers": [
+    "11",
+    "4"
+  ],
+  "extra_course_numbers": "4.244",
+  "primary_course_number": "11.333",
+  "course_image_thumbnail": {
+    "content": "0bf5de72-33e2-dac3-0249-c724eb75b931",
+    "website": "11-333-urban-design-seminar-spring-2016"
+  },
+  "learning_resource_types": [
+    "Design Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "5447e143-055b-4ed3-812e-6b33834634fc",
+  "site_short_id": "11.333-spring-2016",
+  "site_url_path": "courses/11-333-urban-design-seminar-spring-2016",
+  "title": "Course Metadata"
+}
