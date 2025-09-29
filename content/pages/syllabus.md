@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides a course overview and information on meeting
   times, prerequisites, and grading.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -20,13 +22,13 @@ None
 
 ## Course Overview
 
-Hidden behind the common fact that we live in an urbanizing world where more than 50 percent of the planet now lives in cities, is a dramatic realization. Most of that urban growth, that is, one-third of the planet's urban population, lives in an informal settlement. Informal settlements are the most common form of urbanization in the world. Our discipline lacks tools to fully understand this unfolding drama. Inspired by a desire to address this contradictory issue of informality and lack of disciplinary tools, this year's Urban Design Seminar focuses on understanding the role of high-quality design as a tool to address urban social problems. Specifically, the urban social issues we will examine are ones that are engaged in the improvement of the physical environment of marginalized communities. This seminar was taught concurrently with the {{% resource_link "4d185370-0160-47c7-b0e2-c405c07f2c25" "City Design and Development Forum" %}} to provide firsthand accounts of how urban designers and individuals intervene in urban spaces to solve these types of issues.
+Hidden behind the common fact that we live in an urbanizing world where more than 50 percent of the planet now lives in cities, is a dramatic realization. Most of that urban growth, that is, one-third of the planet's urban population, lives in an informal settlement. Informal settlements are the most common form of urbanization in the world. Our discipline lacks tools to fully understand this unfolding drama. Inspired by a desire to address this contradictory issue of informality and lack of disciplinary tools, this year's Urban Design Seminar focuses on understanding the role of high-quality design as a tool to address urban social problems. Specifically, the urban social issues we will examine are ones that are engaged in the improvement of the physical environment of marginalized communities. This seminar was taught concurrently with the [City Design and Development Forum](https://dusp.mit.edu/city-design-and-development) to provide firsthand accounts of how urban designers and individuals intervene in urban spaces to solve these types of issues.
 
 While it can be agreed that all urban design addresses social issues, this seminar focuses on spaces of marginality in which high-quality urban design intervenes as a tool to creatively challenge traditional urban design practices. Through the work of the designers and scholars participating in the CDD Forum, student projects, and in-class discussions, this seminar will address if urban design practices are responsible for innovatively improving the social conditions of marginalized communities.
 
 The Urban Design Seminar is intended to interrogate pressing issues in contemporary urban design through the examination of the work of innovative, leading practitioners in the professions of urban design, architecture, planning, and landscape. Projects and topics discussed will include the role of art and culture in building community, the design of global cities, concern for energy systems and sustainability, and design's accommodation of global capital and investment.
 
-The Spring 2016 Urban Design Seminar features five public lectures by national or international practitioners, all of whom are significant figures in the nonprofit, public sector, and private sector realms of urban design. Each of these practitioners work at multiple scales and their presentations will focus on the content and strategies of current work in their practice. These public lectures also comprise the Spring 2016 CDD Forum of the {{% resource_link "3ba9d4fb-0465-44da-a3a4-79cdc00ee144" "Department of Urban Studies and Planning" %}}.
+The Spring 2016 Urban Design Seminar features five public lectures by national or international practitioners, all of whom are significant figures in the nonprofit, public sector, and private sector realms of urban design. Each of these practitioners work at multiple scales and their presentations will focus on the content and strategies of current work in their practice. These public lectures also comprise the Spring 2016 CDD Forum of the [Department of Urban Studies and Planning](https://dusp.mit.edu/).
 
 ## Grading
 
