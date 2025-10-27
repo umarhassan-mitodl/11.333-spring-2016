@@ -29,7 +29,7 @@ Identify a lecture for group pre-presentation two days after Seminar 1
 {{< tdclose >}}{{< tdopen >}}
 Lecture 1
 {{< tdclose >}}{{< tdopen >}}
-[Nina Rappaport](https://dusp.mit.edu/cdd/event/feb-8-cdd-forum-nina-rappaport-vertical-urban-factory-0), [Vertical Urban Factory](https://www.verticalurbanfactory.org/)
+{{% resource_link "c13290ee-53f5-4abd-9ae2-dc6bf19f609f" "Nina Rappaport" %}}, {{% resource_link "f69ad43b-eaba-4181-9e33-07ad46c28763" "Vertical Urban Factory" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -45,7 +45,7 @@ Assignment 1a due for Group 1
 {{< tdclose >}}{{< tdopen >}}
 Lecture 2
 {{< tdclose >}}{{< tdopen >}}
-[Byran Bell](https://dusp.mit.edu/cdd/event/cdd-forum-bryan-bell-public-interest-design-design-98), [SEED Network](http://seednetwork.org/about/)
+{{% resource_link "c19d11fb-ec03-4bb0-8279-7c3bcdb4a3db" "Byran Bell" %}}, {{% resource_link "feb390e9-0bcc-4672-8c6e-8f1b4ebdb2c9" "SEED Network" %}}
 {{< tdclose >}}{{< tdopen >}}
 Assignment 1b due for Group 1
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -85,7 +85,7 @@ Assignment 1a due for Group 4
 {{< tdclose >}}{{< tdopen >}}
 Lecture 3
 {{< tdclose >}}{{< tdopen >}}
-[Alejandro Echeverri](https://dusp.mit.edu/cdd/event/cdd-forum-alejandro-echeverri-medellin-urban-narratives-emerging-contexts), Social Urbanism
+{{% resource_link "c30f7b3d-9b40-4de6-a061-7f827d7f1602" "Alejandro Echeverri" %}}, Social Urbanism
 {{< tdclose >}}{{< tdopen >}}
 Assignment 1b due for Group 4
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -109,7 +109,7 @@ Assignment 1b due for Group 5
 {{< tdclose >}}{{< tdopen >}}
 Lecture 4
 {{< tdclose >}}{{< tdopen >}}
-[Chelina Odbert](https://dusp.mit.edu/cdd/event/cdd-forum-425-chelina-odbert-kounkuey-design-initiative), [Kounkuey Design Initiative](http://www.kounkuey.org/)
+{{% resource_link "94da15d9-c5df-4f84-9076-119d1e56400d" "Chelina Odbert" %}}, {{% resource_link "bcb93711-d7c7-4487-b4ee-01b4ef6464fd" "Kounkuey Design Initiative" %}}
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -125,7 +125,7 @@ Assignment 2 due
 {{< tdclose >}}{{< tdopen >}}
 Lecture 5
 {{< tdclose >}}{{< tdopen >}}
-[Teddy Cruz](https://visarts.ucsd.edu/people/faculty/teddy-cruz.html) and [Fonna Forman](https://polisci.ucsd.edu/people/faculty/faculty-directory/currently-active-faculty/forman-profile.html), Informal Market Worlds
+{{% resource_link "bc5d8418-5862-482f-a81d-55247d360106" "Teddy Cruz" %}} and {{% resource_link "e81ddc34-e75c-4869-a3b2-51572dbd1286" "Fonna Forman" %}}, Informal Market Worlds
 {{< tdclose >}}{{< tdopen >}}
  
 {{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
